@@ -1,4 +1,6 @@
-Summary: A practice MERN-stack application with a React (Vite) frontend and an Express backend. Features user registration/login, admin controllers, movie uploads (stored in uploads/movies/), and basic auth middleware.
+Summary: A practice MERN-stack application with a React (Vite) frontend and an Express backend. Features user registration/login, admin controllers, movie uploads (stored in uploads/movies/), and basic auth middleware. this project is a updgraded version of my previous userslist project.
+
+
 Features:
 
 -  Auth: JWT middleware for protected routes (authMiddleware/auth.js).
